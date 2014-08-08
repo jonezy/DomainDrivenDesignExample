@@ -1,0 +1,5 @@
+D:\jonezy\DomainDrivenDesignExample\DomainDrivenDesign.Repository\bin\Debug\DomainDrivenDesign.Repository.dll
+D:\jonezy\DomainDrivenDesignExample\DomainDrivenDesign.Repository\bin\Debug\DomainDrivenDesign.Repository.pdb
+D:\jonezy\DomainDrivenDesignExample\DomainDrivenDesign.Repository\obj\Debug\DomainDrivenDesign.Repository.csprojResolveAssemblyReference.cache
+D:\jonezy\DomainDrivenDesignExample\DomainDrivenDesign.Repository\obj\Debug\DomainDrivenDesign.Repository.dll
+D:\jonezy\DomainDrivenDesignExample\DomainDrivenDesign.Repository\obj\Debug\DomainDrivenDesign.Repository.pdb

@@ -1,0 +1,17 @@
+D:\jonezy\DomainDrivenDesignExample\Test\bin\Debug\Test.dll
+D:\jonezy\DomainDrivenDesignExample\Test\bin\Debug\Test.pdb
+D:\jonezy\DomainDrivenDesignExample\Test\bin\Debug\DomainDriveDesignExample.DomainServices.dll
+D:\jonezy\DomainDrivenDesignExample\Test\bin\Debug\DomainDrivenDesign.Entity.dll
+D:\jonezy\DomainDrivenDesignExample\Test\bin\Debug\DomainDrivenDesignExample.Infrastructure.dll
+D:\jonezy\DomainDrivenDesignExample\Test\bin\Debug\nunit.framework.dll
+D:\jonezy\DomainDrivenDesignExample\Test\bin\Debug\DomainDriveDesignExample.DomainServices.pdb
+D:\jonezy\DomainDrivenDesignExample\Test\bin\Debug\DomainDrivenDesign.Entity.pdb
+D:\jonezy\DomainDrivenDesignExample\Test\bin\Debug\DomainDrivenDesignExample.Infrastructure.pdb
+D:\jonezy\DomainDrivenDesignExample\Test\bin\Debug\nunit.framework.xml
+D:\jonezy\DomainDrivenDesignExample\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\jonezy\DomainDrivenDesignExample\Test\obj\Debug\Test.dll
+D:\jonezy\DomainDrivenDesignExample\Test\obj\Debug\Test.pdb
+D:\jonezy\DomainDrivenDesignExample\Test\bin\Debug\Autofac.dll
+D:\jonezy\DomainDrivenDesignExample\Test\bin\Debug\Autofac.xml
+D:\jonezy\DomainDrivenDesignExample\Test\bin\Debug\DomainDriveDesignExample.BusinessLogic.dll
+D:\jonezy\DomainDrivenDesignExample\Test\bin\Debug\DomainDriveDesignExample.BusinessLogic.pdb

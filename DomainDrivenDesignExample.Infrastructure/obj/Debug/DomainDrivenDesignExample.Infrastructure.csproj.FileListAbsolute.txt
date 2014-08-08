@@ -1,0 +1,5 @@
+D:\jonezy\DomainDrivenDesignExample\DomainDrivenDesignExample.Infrastructure\bin\Debug\DomainDrivenDesignExample.Infrastructure.dll
+D:\jonezy\DomainDrivenDesignExample\DomainDrivenDesignExample.Infrastructure\bin\Debug\DomainDrivenDesignExample.Infrastructure.pdb
+D:\jonezy\DomainDrivenDesignExample\DomainDrivenDesignExample.Infrastructure\obj\Debug\DomainDrivenDesignExample.Infrastructure.csprojResolveAssemblyReference.cache
+D:\jonezy\DomainDrivenDesignExample\DomainDrivenDesignExample.Infrastructure\obj\Debug\DomainDrivenDesignExample.Infrastructure.dll
+D:\jonezy\DomainDrivenDesignExample\DomainDrivenDesignExample.Infrastructure\obj\Debug\DomainDrivenDesignExample.Infrastructure.pdb

@@ -1,0 +1,4 @@
+D:\jonezy\DomainDrivenDesignExample\DomainDrivenDesign.Entity\bin\Debug\DomainDrivenDesign.Entity.dll
+D:\jonezy\DomainDrivenDesignExample\DomainDrivenDesign.Entity\bin\Debug\DomainDrivenDesign.Entity.pdb
+D:\jonezy\DomainDrivenDesignExample\DomainDrivenDesign.Entity\obj\Debug\DomainDrivenDesign.Entity.dll
+D:\jonezy\DomainDrivenDesignExample\DomainDrivenDesign.Entity\obj\Debug\DomainDrivenDesign.Entity.pdb

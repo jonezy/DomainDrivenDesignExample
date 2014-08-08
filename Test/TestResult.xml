@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\jonezy\DomainDrivenDesignExample\Test\DDD.nunit" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-08-07" time="15:10:44">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5477" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="CHRISJ" user="chrisj" user-domain="CHRISJ" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Project" name="D:\jonezy\DomainDrivenDesignExample\Test\DDD.nunit" executed="True" result="Success" success="True" time="0.453" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="D:\jonezy\DomainDrivenDesignExample\Test\bin\Debug\Test.dll" executed="True" result="Success" success="True" time="0.438" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.437" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="PressReleaseApplicationServiceTest" executed="True" result="Success" success="True" time="0.435" asserts="0">
+                <results>
+                  <test-case name="Test.PressReleaseApplicationServiceTest.AlertServiceTest" executed="True" result="Success" success="True" time="0.312" asserts="0" />
+                  <test-case name="Test.PressReleaseApplicationServiceTest.GetAllPressReleasesShouldHaveNoInactiveOrDeletedPressReleases" executed="True" result="Success" success="True" time="0.098" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
